@@ -2,6 +2,8 @@
 
 A minimal, single-file web tool for generating URL-friendly slugs from text input.
 
+🔗 **[Try it live](https://linobollansee.github.io/slug-generator/)**
+
 ## Features
 
 - **Real-time conversion**: Generates slugs as you type
